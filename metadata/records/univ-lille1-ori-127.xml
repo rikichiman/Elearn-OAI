@@ -1,0 +1,33 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T03:01:52Z</responseDate>
+<request identifier="oai:editors.coredu.fr:38496" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:38496</identifier>
+<datestamp>2013-09-13T11:25:43Z</datestamp>
+<setSpec>
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>
+http://www.cite-sciences.fr/francais/ala_cite/evenements/quand-la-terre-gronde/seismes-volcans-tsunamis-catastrophes-naturelles/index.html
+</dc:identifier>
+<dc:title>Quand la terre gronde, vivre avec le risque</dc:title>
+<dc:publisher>Claudie Haignere TEL:01 40 05 70 00 LOGO:</dc:publisher>
+<dc:description>
+Toute une série d'animations expliquent à l'élève le fonctionnement de la planète terre, la formation des volcans, des séismes et des tsunamis. Une rubrique traite de la prévention du risque. Un quizz permet à l'élève d'évaluer ce qu'il a appris et compris.
+</dc:description>
+<dc:format>application/x-shockwave-flash</dc:format>
+<dc:type>jeu éducatif</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>
+Licence spécifique éditeur: La Main à la pâte et la Cité des sciences et de l'industrie
+</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

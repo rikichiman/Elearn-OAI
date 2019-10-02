@@ -1,0 +1,37 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T02:50:22Z</responseDate>
+<request identifier="oai:editors.coredu.fr:39279" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:39279</identifier>
+<datestamp>2013-11-19T12:00:02Z</datestamp>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+]]>
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>http://www.touslesmap.org/</dc:identifier>
+<dc:title>Moulins@paroles</dc:title>
+<dc:publisher>Franck ROYER TEL: LOGO:</dc:publisher>
+<dc:contributor>Christian JACOMINO TEL:06 84 48 57 24 LOGO:</dc:contributor>
+<dc:subject>gratuit</dc:subject>
+<dc:description>
+Outils numériques d'entraînement à la lecture. Chaque m@p est consacré à un poème, une chanson ou un fragment de prose. Des textes sont proposés à l'écrit, puis reconstitués à l'oral, à l'aide de divers exercices d'analyse et de mémorisation. Ils permettent de faciliter le mode d'acquisition de la lecture, en particulier pour des publics en difficulté, mais aussi à tout public dans toute structure, sur un mode ludique.
+</dc:description>
+<dc:format>text/html</dc:format>
+<dc:type>exercise</dc:type>
+<dc:type>jeu éducatif</dc:type>
+<dc:type>méthodologie</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>
+Licence Coredu par défaut: http://www.coredu.fr/licence_ressources
+</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

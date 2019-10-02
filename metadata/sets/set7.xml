@@ -1,0 +1,21 @@
+<set>
+<setSpec>journals:aad</setSpec>
+ <datestamp>2013-02-02T09:28:58Z</datestamp>
+<setName>Argumentation et analyse du discours</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://aad.revues.org</dc:identifier>
+<dc:description xml:lang="fr">
+Argumentation et analyse du discours est une revue électronique dont l ambition est d offrir un lieu d échange 
+</dc:description>
+<dc:description xml:lang="en">
+Argumentation et analyse du discours is an electronic journal that offers a focus for exchange to researchers</dc:description>
+<dc:identifier>urn:eissn:1565-8961</dc:identifier>
+<dc:language>fr</dc:language>
+<dc:publisher>Université de Tel-Aviv</dc:publisher>
+<dc:subject xml:lang="en">Language & Linguistics</dc:subject>
+<dc:subject xml:lang="en">Language & Linguistics Theory</dc:subject>
+<dc:subject xml:lang="en">Applied Linguistics</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

@@ -1,0 +1,20 @@
+<set>
+<setSpec>journals:abpo</setSpec>
+ <datestamp>2013-02-02T09:28:58Z</datestamp>
+<setName>Annales de Bretagne et des pays de l Ouest</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://abpo.revues.org</dc:identifier>
+<dc:identifier>urn:issn:0399-0826</dc:identifier>
+<dc:description xml:lang="fr">
+Les Annales de Bretagne ont été créées en 1886 </dc:description>
+<dc:description xml:lang="en">
+The Annales de Bretagne were created in 1886</dc:description>
+<dc:identifier>urn:eissn:2108-6443</dc:identifier>
+<dc:language>fr</dc:language>
+<dc:publisher>Presses universitaires de Rennes</dc:publisher>
+<dc:subject xml:lang="en">History & Archaeology</dc:subject>
+<dc:subject xml:lang="en">History</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

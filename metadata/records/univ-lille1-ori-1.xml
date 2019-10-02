@@ -1,0 +1,39 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T03:09:25Z</responseDate>
+<request identifier="oai:editors.coredu.fr:38140" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+  <record>
+  <header>
+  <identifier>oai:revues.org:perspectiveschinoises/7217</identifier>
+  <datestamp>2016-02-02T09:28:58Z</datestamp>
+  <setSpec>journals</setSpec>
+  <setSpec>journals:perspectiveschinoises</setSpec>
+  </header>
+  <metadata>
+  <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Les noms de domaine d'Internet en Chine</dc:title>
+  <dc:type>info:eu-repo/semantics/article</dc:type>
+  <dc:type>article</dc:type>
+  <dc:creator>Arsène, Séverine</dc:creator>
+  <dc:subject xml:lang="en">Chine</dc:subject>
+  <dc:subject xml:lang="en">CNNIC</dc:subject>
+  <dc:subject xml:lang="en">DNS</dc:subject>
+  <dc:subject xml:lang="en">Grand pare-feu.</dc:subject>
+  <dc:subject xml:lang="en">ICANN</dc:subject>
+  <dc:subject xml:lang="en">Internet</dc:subject>
+  <dc:subject xml:lang="en">localisation</dc:subject>
+  <dc:subject xml:lang="en">souveraineté numérique</dc:subject>
+  <dc:description xml:lang="en">
+  Cet article relate l'histoire de la mise en oeuvre du système des noms de domaine en Chine et ses relations délicates avec le système mondial de gestion des noms de domaine depuis la fin des années 1980, dont les étapes clés ont été la création du code de pays « .cn » et plus récemment la création de noms de domaine en chinois,L'analyse du rôle du DNS dans la « localisation » des contenus en ligne, qui est un levier principal du système de censure, permet de mettre en perspective la notion de « souveraineté numérique ». Par ailleurs, cet article démontre qu'en dépit d'une attitude critique à l'égard de l'architecture et de la gestion mondiale du DNS, la position des autorités chinoises a évolué, partant d'une position pragmatique permettant aux acteurs de terrain de prendre part à cette gestion et d'y défendre leurs intérêts, vers une stratégie plus confiante et affirmée, à mesure que la croissance de l'Internet chinois a placé la Chine dans une position plus avantageuse.
+  </dc:description>
+  <dc:publisher>Centre d'étude français sur la Chine contemporaine</dc:publisher>
+  <dc:language>fr</dc:language>
+  <dc:date>2018-12-15</dc:date>
+  <dc:identifier>http://perspectiveschinoises.revues.org/7217</dc:identifier>
+  <dc:rights>info:eu-repo/semantics/embargoedAccess</dc:rights>
+  <dc:date>info:eu-repo/date/embargoEnd/2018-12-15</dc:date>
+  </oai_dc:dc>
+  </metadata>
+  </record>
+</GetRecord>
+</OAI-PMH>

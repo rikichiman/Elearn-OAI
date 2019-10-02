@@ -1,0 +1,39 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T03:09:25Z</responseDate>
+<request identifier="oai:editors.coredu.fr:38140" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:38140</identifier>
+<datestamp>2013-09-12T16:42:52Z</datestamp>
+<setSpec>
+<![CDATA[ common_lomfr_educ_context:enseignement secondaire ]]>
+</setSpec>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+]]>
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>
+http://www.tv5.org/TV5Site/webtv/serie-93-C_etait_il_y_a.htm
+</dc:identifier>
+<dc:title>Web TV: C'était il ya ...</dc:title>
+<dc:publisher>Evelyne Paquier TEL: LOGO:</dc:publisher>
+<dc:contributor>Jakob "Schlupmann"</dc:contributor>
+<dc:subject>monde</dc:subject>
+<dc:description>
+Collection de courtes vidéos expliquant des évènements clés de l'histoire mondiale.
+</dc:description>
+<dc:format>application/x-shockwave-flash</dc:format>
+<dc:type>lecture</dc:type>
+<dc:type>matériel de référence</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>Licence spécifique éditeur: TV5MONDE</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

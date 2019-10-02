@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2003-05-24T10:27:14Z</responseDate>
+    <request verb="Identify">
+        http://localhost:3000/oai?verb=identify</request>
+    <Identify>
+        <repositoryName>Repository OAI-PMH
+        </repositoryName>
+        <baseURL>http://localhost:3000
+        </baseURL>
+        <protocolVersion>2.0</protocolVersion>
+        <adminEmail>mailto:admin@localhost:3000.com</adminEmail>
+        <earliestDatestamp>2016-04-01</earliestDatestamp>
+        <deletedRecord>no</deletedRecord>
+        <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+        <description>
+            <friends xsi:schemaLocation=
+                "http://www.openarchives.org/OAI/2.0/friends/
+                http://www.openarchives.org/OAI/2.0/friends.xsd">
+                <baseURL>http://uni-d.de:8080/cgi-oai/oai.pl</baseURL>
+                <baseURL>http://edoc.hu-berlin.de/OAI2.0</baseURL>
+                <baseURL>http://naca.larc.nasa.gov/oai2.0/</baseURL>
+            </friends>
+        </description>
+    </Identify>
+</OAI-PMH>

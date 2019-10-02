@@ -1,0 +1,51 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T02:44:04Z</responseDate>
+<request identifier="oai:editors.coredu.fr:32734" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:32734</identifier>
+<datestamp>2015-01-27T12:14:10Z</datestamp>
+<setSpec>
+<![CDATA[ common_lomfr_educ_context:formation continue ]]>
+</setSpec>
+<setSpec>
+<![CDATA[ common_lomfr_educ_context:enseignement secondaire ]]>
+</setSpec>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+]]>
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>http://www.dadd-paca.org/</dc:identifier>
+<dc:title>
+Dispositif d'appui régional sur les Drogues et les Dépendances
+</dc:title>
+<dc:publisher>Etienne ZURBACH TEL:04 91 91 35 30 LOGO:</dc:publisher>
+<dc:subject>soin</dc:subject>
+<dc:subject>addiction</dc:subject>
+<dc:subject>cannabis</dc:subject>
+<dc:subject>addiction au jeu</dc:subject>
+<dc:subject>alcool</dc:subject>
+<dc:subject>addiction au jeu</dc:subject>
+<dc:subject>gratuit</dc:subject>
+<dc:subject>cannabis</dc:subject>
+<dc:subject>alccol</dc:subject>
+<dc:subject/>
+<dc:description>
+Le site a été conçu pour répondre aux besoins des professionnels qui sont concernés par l'usage de drogues et sa prévention. Au travers de ses différentes rubriques, il est à la fois un outil d'information et de conseil. Il propose notamment l'accès à de nombreuses ressources, comme les plans départementaux de la MILDT, les outils méthodologiques de prévention, en particulier ceux spécifiques aumilieu scolaire (guides, documents de référence,...). Il relaie les campagnes initiées par la MILDT et l'INPES et offre en téléchargement de nombreuses études locales et nationales dans sa rubrique observation. Son annuaire des structures spécialisées dans le champ des drogues en région PACA permet de localiser un organisme en fonction de son activité ou de sa situation géographique. Sa rubrique actualités, à laquelle il est possible de s'abonner, permet d'accéder aux documents publiés les plus récents (législation politiques publiques, prévention, ... )
+</dc:description>
+<dc:format>text/html</dc:format>
+<dc:type>guide</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>
+Licence Coredu par défaut: http://www.coredu.fr/licences_ressources
+</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

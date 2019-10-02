@@ -1,0 +1,36 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T02:47:36Z</responseDate>
+<request identifier="oai:editors.coredu.fr:55136" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:55136</identifier>
+<datestamp>2013-12-03T10:58:11Z</datestamp>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+]]>
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>http://www.la-borne.org/</dc:identifier>
+<dc:title>La Borne.org</dc:title>
+<dc:publisher>Stéphane CROS TEL: LOGO:</dc:publisher>
+<dc:subject>gratuit</dc:subject>
+<dc:subject>DNL</dc:subject>
+<dc:description>
+Le site La borne.org présente un espace temps fiction, où le chômage est donc traité, par l'invention de "boulots de circonstance" (et non de métiers) dans une société (de type big brother). Dès lors le chômage est amené à fortement baisser voire disparaître. La borne.org introduit une médiation pédagogique intéressante d'abord par le rire que provoquent les situations, et d'autre part, par la question de la convention qui demeure: cette société fictive donne une réponse à la définition et mesure du chômage.
+</dc:description>
+<dc:format>application/x-shockwave-flash</dc:format>
+<dc:type>animation</dc:type>
+<dc:type>étude de cas</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>
+Licence Coredu par défaut: http://www.coredu.fr/licence_ressources
+</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

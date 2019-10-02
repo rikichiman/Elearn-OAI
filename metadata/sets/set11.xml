@@ -1,0 +1,23 @@
+<set>
+<setSpec>journals:abstractairanica</setSpec>
+ <datestamp>2013-02-02T09:28:58Z</datestamp>
+<setName>Abstracta Iranica more</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://abstractairanica.revues.org</dc:identifier>
+<dc:identifier>urn:issn:0240-8910</dc:identifier>
+<dc:description xml:lang="fr">
+Abstracta Iranica est une revue de bibliographie sélective et critique pour le monde irano-aryen
+</dc:description>
+<dc:description xml:lang="en">
+Abstracta Iranica is a selective and critical bibliography of the Irano-Aryan world published </dc:description>
+<dc:identifier>urn:eissn:1961-960X</dc:identifier>
+<dc:language>fr</dc:language>
+<dc:publisher>CNRS (UMR 7528 Mondes iraniens et indiens)</dc:publisher>
+<dc:publisher>Éditions de lefri</dc:publisher>
+<dc:subject xml:lang="en">Multidisciplinary</dc:subject>
+<dc:subject xml:lang="en">Social Sciences, Interdisciplinary</dc:subject>
+<dc:subject xml:lang="en">Area Studies</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

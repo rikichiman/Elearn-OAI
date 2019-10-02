@@ -1,0 +1,50 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T03:09:25Z</responseDate>
+<request identifier="oai:editors.coredu.fr:38140" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+  <record>
+  <header>
+  <identifier>oai:revues.org:perspectiveschinoises/7201</identifier>
+  <datestamp>2016-02-02T09:28:58Z</datestamp>
+  <setSpec>journals</setSpec>
+  <setSpec>journals:perspectiveschinoises</setSpec>
+  </header>
+  <metadata>
+  <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Façonner l'Internet chinois</dc:title>
+  <dc:type>info:eu-repo/semantics/other</dc:type>
+  <dc:type>issue</dc:type>
+  <dc:creator>(eaizhouz@nus.edu.sg)., Singapour 259770</dc:creator>
+  <dc:creator>Arsène, Séverine</dc:creator>
+  <dc:creator>Arsène, Séverine</dc:creator>
+  <dc:creator>Block, Tower</dc:creator>
+  <dc:creator>Cabestan, Jean-Pierre</dc:creator>
+  <dc:creator>Creemers, Rogier</dc:creator>
+  <dc:creator>Douay, Nicolas</dc:creator>
+  <dc:creator>floor, 4th</dc:creator>
+  <dc:creator>Fontaine, Fanny</dc:creator>
+  <dc:creator>Ho, Ming-sho</dc:creator>
+  <dc:creator>
+  Institute, Zhou Zhihua est chercheur associé à l'East-Asian
+  </dc:creator>
+  <dc:creator>Ji, Zhe</dc:creator>
+  <dc:creator>Li, Angela Ke</dc:creator>
+  <dc:creator>Li, Anthony H. F.</dc:creator>
+  <dc:creator>Liao, Han-Teng</dc:creator>
+  <dc:creator>Minost, Martin</dc:creator>
+  <dc:creator>Road, 469A Bukit Timah</dc:creator>
+  <dc:creator>Russell, Yves</dc:creator>
+  <dc:creator>Singapour., Université nationale de</dc:creator>
+  <dc:creator>Vermander, Benoît</dc:creator>
+  <dc:creator>Zhihua, Zhou</dc:creator>
+  <dc:creator>Zhou, Zhihua</dc:creator>
+  <dc:publisher>Centre d'étude français sur la Chine contemporaine</dc:publisher>
+  <dc:date>2018-12-15</dc:date>
+  <dc:identifier>http://perspectiveschinoises.revues.org/7201</dc:identifier>
+  <dc:rights>info:eu-repo/semantics/embargoedAccess</dc:rights>
+  <dc:date>info:eu-repo/date/embargoEnd/2018-12-15</dc:date>
+  </oai_dc:dc>
+  </metadata>
+  </record>
+</GetRecord>
+</OAI-PMH>

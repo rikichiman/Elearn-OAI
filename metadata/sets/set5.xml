@@ -1,0 +1,22 @@
+<set>
+<setSpec>journals:aaa</setSpec>
+ <datestamp>2013-02-02T09:28:58Z</datestamp>
+<setName>Afrique : Archéologie et Arts</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://aaa.revues.org</dc:identifier>
+<dc:identifier>urn:issn:1634-3123</dc:identifier>
+<dc:description xml:lang="fr">
+Afrique : Archéologie & Arts est dédiée à l archéologie et aux arts d Afrique. </dc:description>
+<dc:description xml:lang="en">
+Afrique : Archéologie & Arts is dedicated to African archaeology and arts.</dc:description>
+<dc:identifier>urn:eissn:2431-2045</dc:identifier>
+<dc:publisher>
+CNRS - UMR 7041 (Archéologie et Sciences de l Antiquité)
+</dc:publisher>
+<dc:subject xml:lang="en">Arts & Humanities</dc:subject>
+<dc:subject xml:lang="en">History & Archaeology</dc:subject>
+<dc:subject xml:lang="en">Archaeology</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

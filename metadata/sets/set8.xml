@@ -1,0 +1,18 @@
+<set>
+<setSpec>journals:abe</setSpec>
+ <datestamp>2016-02-02T09:28:58Z</datestamp>
+<setName>ABE Journal</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://abe.revues.org</dc:identifier>
+<dc:description xml:lang="fr">
+ABE est dédiée à histoire de architecture et de urbanisme hors d Europe.</dc:description>
+<dc:description xml:lang="en">
+ABE is dedicated to the study of architecture and urbanism for scholars of art</dc:description>
+<dc:identifier>urn:eissn:2275-6639</dc:identifier>
+<dc:publisher>Institut national d'histoire de l'art</dc:publisher>
+<dc:subject xml:lang="en">History & Archaeology</dc:subject>
+<dc:subject xml:lang="en">Archaeology</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

@@ -1,0 +1,23 @@
+<set>
+<setSpec>journals:aa</setSpec>
+ <datestamp>2016-02-02T09:28:58Z</datestamp>
+<setName>Anuário Antropológico</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://aa.revues.org</dc:identifier>
+<dc:identifier>urn:issn:0102-4302</dc:identifier>
+<dc:description xml:lang="pt">
+O Anuário Antropológico é uma revista semestral do Programa de Pós-Graduação em Antropologia Social da Universidade de Brasília (PPGAS/UnB). Publica artigos originais, ensaios bibliográficos, resenhas e outros textos de natureza acadêmica que apresentem pesquisas empíricas de qualidade, diálogos teóricos relevantes e perspectivas analíticas diversas. A Revista publica textos em português, inglês, espanhol ou francês.
+</dc:description>
+<dc:description xml:lang="en">
+The Anuário Antropológico is a biannual journal of the Graduate Program in Social Anthropology at the University of Brasília (PPGAS / UNB). The journal publishes original articles, bibliographical essays, reviews and other texts of an academic nature that present empirical research, theoretical dialogues and original analytical perspectives. The Journal publishes texts in Portuguese, English, Spanish or French.
+</dc:description>
+<dc:identifier>urn:eissn:2357-738X</dc:identifier>
+<dc:publisher>
+Programa de Pós-Graduação em Antropologia Social (UnB)
+</dc:publisher>
+<dc:subject xml:lang="en">Sociology & Anthropology</dc:subject>
+<dc:subject xml:lang="en">Anthropology</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>

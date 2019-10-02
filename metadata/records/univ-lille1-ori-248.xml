@@ -1,0 +1,36 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-03-06T02:37:02Z</responseDate>
+<request identifier="oai:editors.coredu.fr:31974" metadataPrefix="oai_dc" verb="GetRecord">http://www.coredu.fr/repository////OAIHandler</request>
+<GetRecord>
+<record>
+<header>
+<identifier>oai:editors.coredu.fr:31974</identifier>
+<datestamp>2013-09-11T12:32:03Z</datestamp>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource statique en telechargement
+]]>
+</setSpec>
+<setSpec>
+<![CDATA[
+common_scolomfr_clas_vocPurposeDiffusion:Ressource interactive en ligne standard
+]]>
+</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>http://www.cieau.com/enseignants</dc:identifier>
+<dc:title>C.I.Eau: Votre espace enseignants</dc:title>
+<dc:publisher>Nathalie DAVOISNE TEL:01 42 56 50 33 LOGO:</dc:publisher>
+<dc:description>"Le Centre d'information sur l'Eau met à disposition des enseignants des outils (brochures, supports de cours, fiches pédagogiques) pour sensibiliser les plus jeunes à la thématique de l'eau."
+</dc:description>
+<dc:format>text/html</dc:format>
+<dc:type>guide</dc:type>
+<dc:type>outil</dc:type>
+<dc:language>fre</dc:language>
+<dc:rights>Licence spécifique éditeur: CIEau</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

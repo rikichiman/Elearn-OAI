@@ -1,0 +1,25 @@
+<set>
+<setSpec>journals:1895</setSpec>
+ <datestamp>2013-02-02T09:28:58Z</datestamp>
+<setName>1895. Mille huit cent quatre-vingt-quinze</setName>
+<setDescription>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>uri:http://1895.revues.org</dc:identifier>
+<dc:identifier>urn:issn:0769-0959</dc:identifier>
+<dc:description xml:lang="fr">
+Publié par l Association française de recherche sur l histoire du cinema, 1895 est le seul périodique français exclusivement consacré à l histoire du cinéma. Trois livraisons sont publiées chaque année. Expression privilégiée de la recherche française et étrangère, 1895 accueille des articles de fond, largement documentés, qui ont vocation à servir de référence, des contributions de jeunes auteurs aussi bien que des traductions des meilleurs spécialistes étrangers.
+</dc:description>
+<dc:description xml:lang="en">
+Published by the Association française de recherche sur l histoire du cinéma (AFRHC), 1895 is the only French periodical exclusively devoted to the history of cinema. Three issues are published each year. 1895 privileges French and foreign research and publishes broadly documented theme articles that serve as reference, contributions from young writers and translations of the best foreign specialists.
+</dc:description>
+<dc:identifier>urn:eissn:1960-6176</dc:identifier>
+<dc:language>fr</dc:language>
+<dc:publisher>
+Association française de recherche sur l histoire du cinéma (AFRHC)
+</dc:publisher>
+<dc:subject xml:lang="en">Arts & Humanities</dc:subject>
+<dc:subject xml:lang="en">Art</dc:subject>
+<dc:subject xml:lang="en">Humanities, Multidisciplinary</dc:subject>
+</oai_dc:dc>
+</setDescription>
+</set>
